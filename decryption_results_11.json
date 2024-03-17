@@ -1,0 +1,21 @@
+[
+  {
+    "cipher": "Shift Cipher",
+    "best_shift": 0,
+    "best_score": 0,
+    "decrypted_text": "DPRHIHJXQRHBIBJRDHXDRX"
+  },
+  {
+    "cipher": "Affine Cipher",
+    "best_a": 0,
+    "best_b": 0,
+    "best_score": 0,
+    "decrypted_text": null
+  },
+  {
+    "cipher": "Substitution Cipher",
+    "key": "ZYXWVUTSRQPONMLKJIHGFEDCBA",
+    "score": 0.0,
+    "decrypted_text": "WKISRSQCJISYRYQIWSCWIC"
+  }
+]
