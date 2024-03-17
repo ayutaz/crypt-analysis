@@ -1,0 +1,302 @@
+[
+  {
+    "keyword": "RHX",
+    "plaintext": "MIUQBKSQTAAERUMAWKGWUG",
+    "analyzed_text": "MIUQBKSQTA ERUMAWKGWUG",
+    "substituted_text": "NIUQBKSQTA ERUNAWKGWUG",
+    "two_letter_patterns": [
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "UQ",
+        1
+      ],
+      [
+        "QB",
+        1
+      ],
+      [
+        "BK",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUQ",
+        1
+      ],
+      [
+        "UQB",
+        1
+      ],
+      [
+        "QBK",
+        1
+      ],
+      [
+        "BKS",
+        1
+      ]
+    ]
+  },
+  {
+    "keyword": "RHXD",
+    "plaintext": "MIUERAMUZKKYRUMOMAAAAQ",
+    "analyzed_text": "MIUERAMUZKKYRUMOMA A Q",
+    "substituted_text": "NIUERANUZKKYRUNONA A Q",
+    "two_letter_patterns": [
+      [
+        "AA",
+        3
+      ],
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "UE",
+        1
+      ],
+      [
+        "ER",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "AAA",
+        2
+      ],
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUE",
+        1
+      ],
+      [
+        "UER",
+        1
+      ],
+      [
+        "ERA",
+        1
+      ]
+    ]
+  },
+  {
+    "keyword": "RHXDP",
+    "plaintext": "MIUETQCANCQULYUAWKUOAQ",
+    "analyzed_text": "MIUETQCANCQULYUAWKUOAQ",
+    "substituted_text": "NIUETQCANCQULYUAWKUOAQ",
+    "two_letter_patterns": [
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "UE",
+        1
+      ],
+      [
+        "ET",
+        1
+      ],
+      [
+        "TQ",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUE",
+        1
+      ],
+      [
+        "UET",
+        1
+      ],
+      [
+        "ETQ",
+        1
+      ],
+      [
+        "TQC",
+        1
+      ]
+    ]
+  },
+  {
+    "keyword": "RHXDRX",
+    "plaintext": "MIUERKSQTOQERUMOMKGWUU",
+    "analyzed_text": "MIUERKSQTOQERUMOMKGWU ",
+    "substituted_text": "NIUERKSQTOQERUNONKGWU ",
+    "two_letter_patterns": [
+      [
+        "ER",
+        2
+      ],
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "UE",
+        1
+      ],
+      [
+        "RK",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUE",
+        1
+      ],
+      [
+        "UER",
+        1
+      ],
+      [
+        "ERK",
+        1
+      ],
+      [
+        "RKS",
+        1
+      ]
+    ]
+  },
+  {
+    "keyword": "RHXDPHI",
+    "plaintext": "MIUETABGJUEMBTSKGEIWJG",
+    "analyzed_text": "MIUETABGJUEMBTSKGEIWJG",
+    "substituted_text": "NIUETABGJUENBTSKGEIWJG",
+    "two_letter_patterns": [
+      [
+        "UE",
+        2
+      ],
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "ET",
+        1
+      ],
+      [
+        "TA",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUE",
+        1
+      ],
+      [
+        "UET",
+        1
+      ],
+      [
+        "ETA",
+        1
+      ],
+      [
+        "TAB",
+        1
+      ]
+    ]
+  },
+  {
+    "keyword": "RHXDJQB",
+    "plaintext": "MIUEZRIGJUESSASKGEONQG",
+    "analyzed_text": "MIUEZRIGJUES ASKGEONQG",
+    "substituted_text": "NIUEZRIGJUES ASKGEONQG",
+    "two_letter_patterns": [
+      [
+        "UE",
+        2
+      ],
+      [
+        "MI",
+        1
+      ],
+      [
+        "IU",
+        1
+      ],
+      [
+        "EZ",
+        1
+      ],
+      [
+        "ZR",
+        1
+      ]
+    ],
+    "three_letter_patterns": [
+      [
+        "MIU",
+        1
+      ],
+      [
+        "IUE",
+        1
+      ],
+      [
+        "UEZ",
+        1
+      ],
+      [
+        "EZR",
+        1
+      ],
+      [
+        "ZRI",
+        1
+      ]
+    ]
+  }
+]
